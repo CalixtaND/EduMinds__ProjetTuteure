@@ -1,0 +1,26 @@
+# Backend
+eduminds-backend/target/
+eduminds-backend/.classpath
+eduminds-backend/.project
+eduminds-backend/.settings/
+eduminds-backend/.DS_Store
+
+# Frontend
+eduminds-mobile/node_modules/
+eduminds-mobile/.expo/
+eduminds-mobile/.expo-shared/
+eduminds-mobile/.DS_Store
+eduminds-mobile/android/
+eduminds-mobile/ios/
+eduminds-mobile/dist/
+eduminds-mobile/npm-debug.*
+eduminds-mobile/*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
